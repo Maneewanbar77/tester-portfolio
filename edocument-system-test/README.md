@@ -18,9 +18,8 @@ for a document management and e-signature web application (simulated project).
 ```
 ├── 📁 edocument-system-test/
 │   ├── README.md
-│   ├── 📁 robot/
-│   │   └── Test7.robot
-│   └── test-data.csv
+│   └── 📁 robot/
+│       └── Test7.robot
 ```
 
 
