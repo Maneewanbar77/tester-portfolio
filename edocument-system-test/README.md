@@ -17,8 +17,8 @@ for a document management and e-signature web application (simulated project).
 ## 📂 Project Structure
 ├── 📁 edocument-system-test/
 │   ├── README.md
-│   ├── robot/
-│   │   ├── Test7.robot
+│   ├── 📁 robot/
+│   │   └── Test7.robot
 
 ## ▶️ How to Run Tests
 
